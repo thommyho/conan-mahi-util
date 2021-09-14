@@ -1,0 +1,5 @@
+
+sources:
+  "1.0.0":
+    url: "https://github.com/mahilab/mahi-util/archive/refs/heads/master.zip"
+    sha256: "9c2e9ff77d3c0c6317c616d5e87810997cd19f39b6686d788e735a40482d3ab8"
